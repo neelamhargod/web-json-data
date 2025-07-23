@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "productImage": "/stationery-img/A4%20Size%20Register%20Notebook%20300%20page.png",
+    "productTitle": "A4 Size Register Notebook 300 page",
+    "price": "160",
+    "originalPrice": "200",
+    "note": "Student Favorite",
+    "description": "300-page A4 size register notebook ideal for notes and records.",
+    "rating": "4.5",
+    "reviewCount": "28"
+  },
+  {
+    "id": "2",
+    "productImage": "/stationery-img/Classmate%20sketch%20pens.png",
+    "productTitle": "Classmate sketch pens",
+    "price": "90",
+    "originalPrice": "120",
+    "note": "Vibrant Colors",
+    "description": "Set of bright sketch pens perfect for coloring and creative work.",
+    "rating": "4.7",
+    "reviewCount": "35"
+  },
+  {
+    "id": "3",
+    "productImage": "/stationery-img/Drawing%20Book%20(75%20Sheets,%20150%20Pages).png",
+    "productTitle": "Drawing Book (75 Sheets, 150 Pages)",
+    "price": "120",
+    "originalPrice": "150",
+    "note": "Best for Art",
+    "description": "150-page drawing book with thick sheets for sketches and artwork.",
+    "rating": "4.6",
+    "reviewCount": "24"
+  },
+  {
+    "id": "4",
+    "productImage": "/stationery-img/Drawing%20elements%20200%20page.png",
+    "productTitle": "Drawing elements 200 page",
+    "price": "140",
+    "originalPrice": "180",
+    "note": "Creative Kit",
+    "description": "200-page drawing pad with essential art elements included.",
+    "rating": "4.5",
+    "reviewCount": "22"
+  },
+  {
+    "id": "5",
+    "productImage": "/stationery-img/N.S%20Bright%20200%20Pages%20A4%20Size%20Notebook.png",
+    "productTitle": "N.S Bright 200 Pages A4 Size Notebook",
+    "price": "130",
+    "originalPrice": "170",
+    "note": "Bright Design",
+    "description": "A4-size 200-page notebook with colorful cover and quality paper.",
+    "rating": "4.4",
+    "reviewCount": "19"
+  },
+  {
+    "id": "6",
+    "productImage": "/stationery-img/Office%20Register%20300%20page.png",
+    "productTitle": "Office Register 300 page",
+    "price": "175",
+    "originalPrice": "220",
+    "note": "Office Use",
+    "description": "Heavy-duty 300-page register ideal for office record keeping.",
+    "rating": "4.6",
+    "reviewCount": "21"
+  },
+  {
+    "id": "7",
+    "productImage": "/stationery-img/Regular%20Notebook%20plain%20200%20Pages.png",
+    "productTitle": "Regular Notebook plain 200 Pages",
+    "price": "110",
+    "originalPrice": "140",
+    "note": "Plain Inside",
+    "description": "200-page plain notebook perfect for sketching or free writing.",
+    "rating": "4.3",
+    "reviewCount": "17"
+  },
+  {
+    "id": "8",
+    "productImage": "/stationery-img/Single%20Line%20Office%20Register,%20200%20Pages.png",
+    "productTitle": "Single Line Office Register, 200 Pages",
+    "price": "150",
+    "originalPrice": "190",
+    "note": "Single Line",
+    "description": "200-page register with single-line ruling for professional use.",
+    "rating": "4.5",
+    "reviewCount": "23"
+  }
+]
